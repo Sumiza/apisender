@@ -27,7 +27,6 @@ Examples:
     toname = "toname"
     bodytext = "test text"
     bodyhtml = "<h1>test html</h1>"
-    subject = "test subject"
 
     print(Apisender(fromname=fromname,
                     bodytext=bodytext).discord().text)
