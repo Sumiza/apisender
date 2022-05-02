@@ -1,0 +1,12 @@
+{
+  "smtp2go" : {
+    "authpasskey" : "api-token"
+  },
+  "mailjet" : {
+    "authuser" : "username",
+    "authpasskey" : "password"
+  },
+  "discord" : {
+    "authpasskey" : "token-here after the /webhook/*"
+  }
+}
