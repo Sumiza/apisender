@@ -2,6 +2,12 @@
 
 Sends messages to various APIs for email or discord
 
+[![Pypi](https://github.com/Sumiza/apisender/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Sumiza/apisender/actions/workflows/python-publish.yml)
+[![Pylint](https://github.com/Sumiza/apisender/actions/workflows/pylint.yml/badge.svg)](https://github.com/Sumiza/apisender/actions/workflows/pylint.yml)
+![PyPI](https://img.shields.io/pypi/v/apisender)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/apisender)
+
+
 ``` python
 from apisender import Apisender
 ```
